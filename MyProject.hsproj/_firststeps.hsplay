@@ -1,0 +1,17 @@
+-- Haskell Playground 1.0
+inc 41
+
+exclaim "Haskell"
+
+average 10 20
+it
+
+let sum :: Num a => [a] -> a
+    sum = foldl (+) 0 
+sum [1..10] :: Int
+
+let incList = map (+1)
+
+-- Whatever you print goes
+-- to the console below.
+putStrLn (exclaim "Welcome to Haskell")

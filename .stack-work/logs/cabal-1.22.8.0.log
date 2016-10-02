@@ -1,0 +1,13 @@
+Configuring Cabal-1.22.8.0...
+Building Cabal-1.22.8.0...
+Preprocessing library Cabal-1.22.8.0...
+[ 1 of 81] Compiling Paths_Cabal      ( .stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/autogen/Paths_Cabal.hs, .stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/Paths_Cabal.o )
+[ 2 of 81] Compiling Distribution.TestSuite ( Distribution/TestSuite.hs, .stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/Distribution/TestSuite.o )
+[ 3 of 81] Compiling Distribution.Simple.PreProcess.Unlit ( Distribution/Simple/PreProcess/Unlit.hs, .stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/Distribution/Simple/PreProcess/Unlit.o )
+[ 4 of 81] Compiling Distribution.GetOpt ( Distribution/GetOpt.hs, .stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/Distribution/GetOpt.o )
+[ 5 of 81] Compiling Distribution.PackageDescription.Utils ( Distribution/PackageDescription/Utils.hs, .stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/Distribution/PackageDescription/Utils.o )
+[ 6 of 81] Compiling Distribution.Simple.CCompiler ( Distribution/Simple/CCompiler.hs, .stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/Distribution/Simple/CCompiler.o )
+[ 7 of 81] Compiling Distribution.Compat.Binary ( Distribution/Compat/Binary.hs, .stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/Distribution/Compat/Binary.o )
+[ 8 of 81] Compiling Distribution.Compat.ReadP ( Distribution/Compat/ReadP.hs, .stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/Distribution/Compat/ReadP.o )
+[ 9 of 81] Compiling Distribution.Text ( Distribution/Text.hs, .stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/Distribution/Text.o )
+[10 of 81] Compiling Distribution.Version ( Distribution/Version.hs, .stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/Distribution/Version.o )

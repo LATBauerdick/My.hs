@@ -1,5 +1,8 @@
 module My where
 
+curry f a b = f (a, b)
+uncurry f (a, b) = f a b
+
 nonsense :: Bool -> Integer
 nonsense True = 805
 nonsense False = 31337

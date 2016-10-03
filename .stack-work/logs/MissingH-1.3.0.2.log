@@ -1,4 +1,0 @@
-Configuring MissingH-1.3.0.2...
-setup-Simple-Cabal-1.22.5.0-ghc-7.10.3: At least the following dependencies
-are missing:
-directory >=1.2.6.0 && ==1.2.2.0
